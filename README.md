@@ -9,7 +9,7 @@ clox is a bytecode interpreter written in C from the book [Crafting Interpreters
 |         Chapter          | Status |
 |:------------------------:|:------:|
 |    Chunks of Bytecode    |   ✅    |
-|    A Virtual Machine     |   ⏳    |
+|    A Virtual Machine     |   ✅    |
 |    Scanning on Demand    |   ⏳    |
 |  Compiling Expressions   |   ⏳    |
 |     Types of Values      |   ⏳    |
